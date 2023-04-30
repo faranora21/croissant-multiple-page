@@ -1,0 +1,25 @@
+body {
+  margin: 60px auto;
+  background: #f0ece2;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-size: 20px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.email-link {
+  display: block;
+  text-align: center;
+  font-size: 30px;
+}
